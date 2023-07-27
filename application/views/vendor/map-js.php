@@ -1,0 +1,3 @@
+<script src="<?= base_url(); ?>assets/peta/leaflet/leaflet.js"></script> <!-- memanggil leaflet.js di folder leaflet -->
+<script src="<?= base_url(); ?>assets/peta/js/jquery-3.7.0.min.js"></script> <!-- memanggil jquery di folder js -->
+<script src="<?= base_url(); ?>assets/peta/leaflet/leaflet-providers-master/leaflet-providers.js"></script> <!-- memanggil leaflet-providers.js di folder leaflet provider -->
